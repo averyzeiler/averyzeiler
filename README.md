@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 I'm Avery Zeiler, and I'm in my third year of study in Mechatronics Engineering and Society at McMaster University.
 
 <!--
 **averyzeiler/averyzeiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
