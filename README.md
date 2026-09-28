@@ -1,8 +1,7 @@
-### Hi there! 👋 I'm Avery Zeiler, and I'm in my third year of study in Mechatronics Engineering and Society at McMaster University.
-Check out my most recent project: [Development of a Cardiac Pacemaker System](https://github.com/ozkank01/3K04_SD)
+### Hi there! 👋 I'm Avery Zeiler, and I'm a Mechatronics Engineering and Society graduate from McMaster University.
 <!--
 **averyzeiler/averyzeiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Check out my most recent project: [Development of a Cardiac Pacemaker System](https://github.com/ozkank01/3K04_SD)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
